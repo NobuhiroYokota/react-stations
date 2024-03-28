@@ -8,6 +8,7 @@ import Description from './Description';
 import Header from './Header';
 import DogImage from './DogImage';
 import DogListContainer from './DogListContainer';
+import { afterAll } from 'vitest';
 
 /**
  * @type {() => JSX.Element}
